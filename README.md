@@ -1,5 +1,4 @@
-### Project Title
-Predicting “Successful” Criminal Activity in New York City
+# Predicting “Successful” Criminal Activity in New York City
 
 ### Problem Definition and Motivation
 The dataset includes all valid felony, misdemeanor, and violation crimes reported to the New York City Police Department from 2006 to 2015. Some crimes are successfully completed while others are “attempted” but failed or were interrupted prematurely. We seek to understand the pattern behind successfully completed criminal activities by building a classification model to predict whether a crime is “successful” or “unsuccessful.” It’s important to understand what factors lead to a successful crime in determining how to better distribute public resources throughout the city.
