@@ -18,4 +18,4 @@ Keras 2.2.4
 Tensorflow 1.12.0  
 
 ### Data
-NYC Open Data. (2018). CNYPD Complaint Data Historic [Data file]. Retrieved from https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i
+NYC Open Data. (2018). NYPD Complaint Data Historic [Data file]. Retrieved from https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i
