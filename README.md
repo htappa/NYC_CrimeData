@@ -21,4 +21,4 @@ Tensorflow 1.12.0
 NYC Open Data. (2018). NYPD Complaint Data Historic [Data file]. Retrieved from https://data.cityofnewyork.us/Public-Safety/NYPD-Complaint-Data-Historic/qgea-i56i
 
 ### Using the Code
-The code presented in FinalProject_NYPD_CrimeData.ipynb is designed to be reproducible and can be used with new NYPD complaint data as it becomes available from the website listed above. Simply download the csv files from these websites to the same directory as the ipynb file.
+The code presented in NYPD_CrimeData.ipynb is designed to be reproducible and can be used with new NYPD complaint data as it becomes available from the website listed above. Simply download the csv files from these websites to the same directory as the ipynb file.
